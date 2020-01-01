@@ -21,7 +21,7 @@ $ cd WeatherApp
 
 Change APIKEYHERE with your api key and run.
 ```sh
-$ sed -i 's/APIKEY/APIKEYHERE/g' src/index.php
+$ sed -i 's/APIKEY/APIKEYHERE/g' code/index.php
 ```
 After that:
 
