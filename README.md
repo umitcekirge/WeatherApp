@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/umitcekirge/WeatherApp/master/ssWeatherApp.png?raw=true" alt="WeatherApp ScreenShot" width="300" />
+    <img src="https://raw.githubusercontent.com/umitcekirge/WeatherApp/master/ssWeatherApp.png?raw=true" alt="WeatherApp ScreenShot"/>
 </p>
 
 
