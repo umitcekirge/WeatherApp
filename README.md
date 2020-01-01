@@ -12,7 +12,7 @@ A weather app written in PHP ready to deploy with Docker.
 - [Docker](https://www.docker.com/) is a tool designed to make it easier to create, deploy, and run applications by using containers.
 - [Nginx](https://www.nginx.com/) is open source software for web serving, reverse proxying, caching, load balancing, media streaming, and more
 
-## Installing
+## Installation
 Clone project. 
 ```sh
 $ git clone https://github.com/umitcekirge/WeatherApp.git
