@@ -17,7 +17,7 @@
             <div class="date-container">
                 <h2 class="date-dayname"><?=date('l', strtotime($weatherData[0]['Date']));?></h2><span class="date-day"><?=date('j M Y', strtotime($weatherData[0]['Date']));?></span><i class="location-icon" data-feather="map-pin"></i><span class="location"><?=$_COOKIE['weatherLocation']?>, <?=$_COOKIE['weatherLocationCountry']?></span>
             </div>
-            <div class="weather-container"><img src="https://developer.accuweather.com/sites/default/files/01-s.png">
+            <div class="weather-container"><img src="https://developer.accuweather.com/sites/default/files/<?=$weatherData[0]['Icon'];?>-s.png">
                 <h1 class="weather-temp"><?=(int)$weatherData[0]['Temperature'];?>°C</h1>
                 <h3 class="weather-desc"><?=$weatherData[0]['DayPhrase'];?></h3>
             </div>
