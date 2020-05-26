@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/umitcekirge/WeatherApp/master/ssWeatherApp.png?raw=true" alt="WeatherApp ScreenShot"/>
+    <img src="https://raw.githubusercontent.com/umitcekirge/WeatherApp/master/.github/WeatherApp.png?raw=true" alt="WeatherApp ScreenShot"/>
 </p>
 
 
